@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-utilities",
+  "version": "1.0.0",
+  "description": "just bootstrap4 utilities",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0",
+    "grunt-sass-tilde-importer": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
